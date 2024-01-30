@@ -1,4 +1,4 @@
-```markdown
+
 # IMDB Clone
 
 Welcome to the IMDB Clone, a basic React project that mirrors IMDb's essence. Utilizing the TMDB API for movie data, this lightweight application is styled with Tailwind CSS. Key features include search by film names and sorting by ratings, providing a simple yet effective movie discovery experience.
